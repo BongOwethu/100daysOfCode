@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Mandisa's Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ Introduction: I am an aspiring CLoud Engineer that is learning on the go, with people.]
 
-[✍️ Tell us why you started this challenge]
+[✍️ Tell us why you started this challenge::I started the challenge because I am completely new to coding and I want to master writing effecient code]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[✍️ Tell us where you want to be at the end of the challenge: I want to be able to apply what I have learnt to build, maintain and write code in preparation for the work environment and coding interviews for the year 2023]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/Mandisa90163321)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/mandisa-nompumelelo-shange-607499227/)
 
 ## Stepping out the door
 
